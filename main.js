@@ -1,5 +1,5 @@
 // YOUR OPENAI API KEY
-const TOKEN = 'YOUR_API_KEY_HERE';
+const TOKEN = 'YOUR_API_KEY';
 
 
 /*  --> make sure to refresh the page after accepting microphone permissions
